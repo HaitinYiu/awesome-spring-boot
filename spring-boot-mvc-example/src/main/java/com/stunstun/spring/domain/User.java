@@ -22,6 +22,8 @@ public class User {
 
     public User(Long id, String userName) {
         this.id = id;
+        int a = 2;
+        int b = 3;
         this.userName = userName;
     }
 
