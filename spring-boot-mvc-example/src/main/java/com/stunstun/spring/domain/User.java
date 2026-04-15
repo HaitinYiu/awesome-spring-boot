@@ -24,6 +24,7 @@ public class User {
         this.id = id;
         int a = 2;
         int b = 3;
+        int c = a + b;
         this.userName = userName;
     }
 
